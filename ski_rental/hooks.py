@@ -190,3 +190,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"ski_rental.auth.validate"
 # ]
+
+fixtures = ["Custom Field"]
