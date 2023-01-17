@@ -191,4 +191,4 @@ app_license = "MIT"
 #	"ski_rental.auth.validate"
 # ]
 
-fixtures = ["Custom Field"]
+fixtures = ["Custom Field", "Server Script"]
