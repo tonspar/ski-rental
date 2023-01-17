@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ski_rental *.css
+recursive-include ski_rental *.csv
+recursive-include ski_rental *.html
+recursive-include ski_rental *.ico
+recursive-include ski_rental *.js
+recursive-include ski_rental *.json
+recursive-include ski_rental *.md
+recursive-include ski_rental *.png
+recursive-include ski_rental *.py
+recursive-include ski_rental *.svg
+recursive-include ski_rental *.txt
+recursive-exclude ski_rental *.pyc
